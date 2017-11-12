@@ -16,4 +16,4 @@ Build a MySQL database that:
 
 Stores the information regarding the infected files in input, such as name of the malware (not the name of the file), the sequence of bytes, etc...
 
-Although ambigouous, the goal is to obtain a basic understanding on how malware detection works and how to identify, safely store and sanitize inputs. 
+Although ambigouous, the goal is to obtain a basic understanding on how malware detection works and how to identify, safely store and sanitize inputs. Ofcourse, this is still a work in progress and that there is no way to obtain the perfect all around antivirus, but we can come close.
