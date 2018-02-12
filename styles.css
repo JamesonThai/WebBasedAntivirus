@@ -1,0 +1,72 @@
+
+#usersFront{
+	position: relative;
+	float: left;
+	width: 500px;
+	height: 200px;
+	background: rgba(198, 150, 247, 0.9);
+	border: 2px solid rgb(198, 150, 247);
+	border-radius: 8px;
+	text-align: center;
+}
+
+#usersFront p{
+	max-width: 500px;
+	max-height: 100px;
+}
+
+#adminFront{
+	position: relative;
+	width: 500px;
+	float: left;
+	left:  100px;
+	height: 200px;
+	background: rgba(198, 150, 247, 0.9);
+	border: 2px solid rgb(198, 150, 247);
+	border-radius: 8px;
+	text-align: center;
+}
+
+#humanInteraction{
+	position: absolute;
+	top: 40%;
+	left: 22%;
+	width: 2000px;
+	height: 1000px;
+	margin: -100px 0 0 -150px;
+}
+
+#userRegister{
+	position:absolute;
+	width: 500px;
+	background: rgba(198, 150, 247, 0.9);
+	border: 2px solid rgb(198, 150, 247);
+	border-radius: 8px;
+	text-align: center;
+	left:25%;
+	top: 25%;
+}
+
+#main{
+	/*background-image: url("https://asegrad.tufts.edu/sites/default/files/images/programs/GradPrograms_Dept-CS_LandingPage.jpg");*/
+}
+#mainContainer{
+	background: rgba(198, 150, 247, 0.9);
+	border: 2px solid rgb(198, 150, 247);
+	border-radius: 8px;
+	
+}
+#mainContainer h1{
+	font-family: 'Trocchi', serif; font-size: 60px; font-weight: normal; line-height: 48px; margin: 0;
+	position: relative;
+	top: 10px;
+	text-align: center;
+}
+#mainContainer h2{
+	position: relative;
+	text-align: center;
+}
+#form{
+	position: relative;
+	left: 10px;
+}
